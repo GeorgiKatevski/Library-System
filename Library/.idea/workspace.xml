@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45031f57-dd93-4f8c-83dc-cedff3bc818f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kwAFx0l1roUZLaQnoQlBZyoQif" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.SystemTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Library" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Library.SystemTest" />
+      <module name="Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SystemTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SystemTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45031f57-dd93-4f8c-83dc-cedff3bc818f" name="Default Changelist" comment="" />
+      <created>1606601179101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606601179101</updated>
+      <workItem from="1606601185154" duration="7484000" />
+      <workItem from="1606680778947" duration="923000" />
+      <workItem from="1606689280575" duration="1563000" />
+      <workItem from="1606849634472" duration="6177000" />
+      <workItem from="1606863250864" duration="3433000" />
+      <workItem from="1606902984048" duration="23212000" />
+      <workItem from="1606938673064" duration="324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1606689764517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606689764517" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1606938597358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606920839782" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606938597358" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1606938597358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606920839781" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606938597358" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1606938597358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606920839781" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606938597358" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1606938597358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606920839781" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606938597358" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1606938597358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606938597358" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1606938597358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606938597358" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1606938597358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606938597358" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1606938597358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606938597358" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1606654569393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606654569393" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1606932427135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1606932427135" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1606863252416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1606863252416" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606906132676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606906132676" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Library/SystemTest.java</url>
+          <line>7</line>
+          <properties class="Library.SystemTest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Library/SystemTest.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((Library.Library)this).users" custom="Library.Library" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
